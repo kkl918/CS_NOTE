@@ -1,0 +1,2 @@
+新稱一個使用者並設定群組、登入權限(nologin只能FTP,MAIL)、根目錄位置、使用者名稱
+sudo useradd -g groupname -s /sbin/nologin -d dir/path username
