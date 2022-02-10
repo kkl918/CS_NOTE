@@ -1,0 +1,10 @@
+keys_list = ["a", "b"]
+values_list = [1, 2]
+zip_iterator = zip(keys_list, values_list)
+Get pairs of elements
+
+
+a_dictionary = dict(zip_iterator)
+Convert to dictionary
+
+print(a_dictionary)
