@@ -1,0 +1,1 @@
+sudo mount -t vfat -o rw,uid=1002,gid=1002 UUID=579C-1B8D /home/ftp
