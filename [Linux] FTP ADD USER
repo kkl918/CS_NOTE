@@ -1,0 +1,4 @@
+EX:
+sudo mkdir /home/ftp/cwec
+sudo chown -R cwec:ftp /home/ftp/cwec
+sudo useradd -g ftp -d /home/ftp/cwec -p cwec cwec
